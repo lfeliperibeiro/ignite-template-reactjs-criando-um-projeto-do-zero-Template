@@ -1,1 +1,11 @@
-// TODO
+.container {
+  max-width: 1120px;
+  height: 7rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 5rem 0;
+
+  a {
+    cursor: pointer;
+  }
+}
